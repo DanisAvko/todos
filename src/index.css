@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.container {
+  display: flex;
+}
+
+.MuiTextField-root {
+  margin: 5px !important;
+}
+
+.MuiButton-root {
+  margin: 5px !important;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.float-right {
+  float: right;
+}
+
+.text-decoration__none {
+  text-decoration: none;
+  color: #000 !important;
+}
